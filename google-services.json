@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "149777463064",
+    "project_id": "autismapp-7febb",
+    "storage_bucket": "autismapp-7febb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149777463064:android:bdfd36e24071997061506d",
+        "android_client_info": {
+          "package_name": "com.moreharsh.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149777463064-2nqtgbiphdnv4292etcmr3cp2ngl69al.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moreharsh.myapp",
+            "certificate_hash": "2e6afa17a14d7a3246eb6b767c326f4ffa24ace1"
+          }
+        },
+        {
+          "client_id": "149777463064-kai821evrten020hu3cau6dp0dpqq88k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moreharsh.myapp",
+            "certificate_hash": "08a4074df61b7d147375cc5dce3388b6b9e184be"
+          }
+        },
+        {
+          "client_id": "149777463064-0pnmur68pdt75a4d7d1dsg26rd5pdape.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo0H-0LtFwXfiymL4XrtKU0GUQ9arMdhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149777463064-0pnmur68pdt75a4d7d1dsg26rd5pdape.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
